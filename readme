@@ -1,0 +1,29 @@
+This code represents a static HTML webpage for an educational website named "Educa". The webpage has a header, home section, categories section, and footer.
+
+Table of Contents
+Technologies
+Setup
+Features
+Contributing
+License
+Technologies
+This project was created using the following technologies:
+
+HTML
+CSS
+Font Awesome (CDN)
+Setup
+To run this project, simply open the index.html file in a web browser.
+
+Features
+The Educa website has the following features:
+
+A responsive header that includes a logo, menu button, and navigation menu
+A home section that includes a hero image, a title, and a description
+A categories section that displays five boxes with images and titles
+A footer that includes links to explore, categories, and quick links.
+Contributing
+Contributions are always welcome! If you have any suggestions or want to make any changes, please fork the repository and create a pull request with your changes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
